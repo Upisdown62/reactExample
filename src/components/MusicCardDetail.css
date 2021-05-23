@@ -1,0 +1,67 @@
+.detail {
+
+}
+
+.detailArrow {
+    padding: 20px;
+}
+
+.detailHeader {
+    
+}
+
+.detailTitle {
+    text-align: center;
+}
+
+.detailContent {
+    
+}
+
+.detailLyricist{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+    width: 20%;
+    padding: 100px 20px 100px 200px;
+}
+
+.lyricistData{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    width: 200px;
+    padding: 100px 100px 100px 20px;
+}
+
+.detailMelodizer{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+    width: 20%;
+    padding: 100px 20px 100px 200px;
+}
+
+.melodizerData{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    padding: 100px 100px 100px 20px;
+    width: 200px;
+}
+
+.detailGenre{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+    width: 20%;
+    padding: 100px 20px 100px 200px;
+}
+
+.genreData{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    padding: 100px 100px 100px 20px;
+    width: 200px;
+}
